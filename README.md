@@ -1,4 +1,3 @@
-# minpro2
 # Sistem Sewa Apartemen
 
 NAMA  :Taufik Ramadhani
