@@ -7,7 +7,7 @@ Prodi : Sistem Informasi'A24
 
 # Flowchart
 
-![flowwww drawio (2)](https://github.com/user-attachments/assets/a6013c44-de05-45a5-a344-9b9d01742372)
+![flowwww drawio (2) drawio (1)](https://github.com/user-attachments/assets/18045a26-bee1-49ff-b356-53b7c27a514e)
 
 
 # Output Sudut Pandang Admin
